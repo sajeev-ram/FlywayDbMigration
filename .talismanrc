@@ -7,6 +7,8 @@ fileignoreconfig:
   checksum: 6dcd3fe8e6627da0ac851d3c3f7fe7bb35d4d0428d94453f47a07f71a2c112af
 - filename: src/main/resources/db/migration/V1.4__AlterTableUsersAddFieldPhoneNumber.sql
   checksum: 537c65a3d32170fed90c05729ef50f232feb6aee0064a64ed323f201f2e4dba5
+- filename: src/main/resources/db/migration/V1.5__CreateCartsTable.sql
+  checksum: ad6d33c4be227591e977e59a0fa5de30ef4c9313f063e2141845ada2c5f69d31
 
 version: ""
 
