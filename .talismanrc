@@ -5,6 +5,8 @@ fileignoreconfig:
   checksum: e8fb90bc37a9fbb88c6946ab350d8573bea096166e66f81ce794761ba56a6a57
 - filename: src/main/resources/db/migration/V1.3__AlterUsersTableFieldNameToFull_Name.sql
   checksum: 6dcd3fe8e6627da0ac851d3c3f7fe7bb35d4d0428d94453f47a07f71a2c112af
+- filename: src/main/resources/db/migration/V1.4__AlterTableUsersAddFieldPhoneNumber.sql
+  checksum: 537c65a3d32170fed90c05729ef50f232feb6aee0064a64ed323f201f2e4dba5
 
 version: ""
 
